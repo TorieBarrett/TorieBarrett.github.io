@@ -13,6 +13,6 @@ layout: default
 
 ### Thesis
 
-*   [A Strictly Linear Proof System for Propositional Classical Logic](.\assets\Papers\A Strictly Linear Proof System for Propositional Classical Logic.pdf) <br/>
+*   [A Strictly Linear Proof System for Propositional Classical Logic](.\assets\Papers\Thesis.pdf) <br/>
 <br/>
 &emsp; We present a proof system for a conservative extension of propositional classical logic with decision trees that is strictly linear. This means that not only there are no structural rules such as contraction and weakening but there are no rules for unit equalities either, and there is no negation. Yet, its classical semantics and proof-theoretic properties can be recovered via an interpretation map at a polynomial cost. Moreover, this system can p-simulate substitution Frege. Those results are made possible primarily by two technical advances: 1) an ‘Eversion Lemma’, that guarantees extreme flexibility in manipulating formulae to match a given logical context, and 2) a form of explicit substitution for derivations into derivations. We argue that this proof system represents a significant step towards a notion of factorisation for proofs. That will hopefully lead us to a semantics of proofs adequate to solve the proof identity problem.
