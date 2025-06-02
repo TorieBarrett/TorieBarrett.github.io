@@ -15,7 +15,7 @@ represent multiple subderivations. We show that a subatomic proof system with gu
 &emsp; Joint work with Alessio Guglielmi and Ben Ralph <br/>
 <br/>
 &emsp; We present a subatomic deep-inference proof system for a conservative extension of propositional classical logic with decision trees that is strictly linear. In a strictly linear subatomic system, a single linear rule shape subsumes not only the structural rules, such as contraction and weakening, but also the unit equality rules. An interpretation map from subatomic logic to propositional classical logic recovers the usual semantics and proof theoretic properties. By using explicit substitutions that indicate the substitution of one derivation into another, we are able to show that the unit-equality inference steps can be eliminated from a subatomic system for propositional classical logic with only a polynomial complexity cost in the size of the derivation, from which it follows that the system p-simulates Frege systems, and we show cut elimination for the resulting strictly linear system. <br/>
-&emsp; To be presented at [CSL 2025](https://csl2025.github.io/)
+&emsp; Presented at [CSL 2025](https://csl2025.github.io/)
 
 
 ### Thesis
