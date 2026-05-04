@@ -5,9 +5,7 @@ layout: default
 # About
 
 Currently a postdoctoral researcher at Inria Saclay in team Partout, supervised by [Kaustuv Chaudhuri](https://chaudhuri.info/) on the AEx project IMPROOF.
-Previously a PhD student at the University of Bath in the mathematical foundations group, supervised by [Alessio Guglielmi](http://alessio.guglielmi.name/)
-
-
+Previously a PhD student at the University of Bath in the mathematical foundations group, supervised by [Alessio Guglielmi](http://alessio.guglielmi.name/).
 
 My research is in structural proof theory, in particular the deep inference methodology for the design of proof formalisms with good properties in complexity, normalisation, and semantics. Deep-inference proof formalisms generalise sequent calculus systems by allowing more free composition of proofs, and therefore a larger collection of objects as proofs. In this larger collection, we can find better canonical representatives, better normalisation procedures, and smaller cut-free proofs.
 
