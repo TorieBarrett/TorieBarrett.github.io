@@ -48,6 +48,10 @@ represent multiple subderivations. We show that a subatomic proof system with gu
 
 ### Talks
 
+*	An introduction to deep inference <br/>
+&emsp; Invited tutorial at the [8th International School on Proof Theory](https://proofsociety26.sciencesconf.org/) <br/>
+&emsp; Slides available [here](/assets/ps.pdf)
+
 *   Linearity and Deep Inference <br/>
 &emsp; Invited tutorial at Trends in Linear Logic and Applications workshop 2025
 
