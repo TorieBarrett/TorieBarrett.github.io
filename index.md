@@ -26,6 +26,14 @@ represent multiple subderivations. We show that a subatomic proof system with gu
 &emsp; Presented at [CSL 2025](https://csl2025.github.io/)
 
 
+### Unpublished Papers
+
+*   [A fully local proof system for first-order logic](.\assets\Papers\lfo.pdf) <br/>
+&emsp; Joint work with Kaustuv Chaudhuri <br/>
+<br/>
+&emsp; Under review.
+
+
 ### Thesis
 
 *   [A Strictly Linear Proof System for Propositional Classical Logic](/assets/Papers/Thesis.pdf) <br/>
